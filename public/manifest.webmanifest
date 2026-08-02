@@ -1,0 +1,10 @@
+{
+  "name": "求人条件くらべ",
+  "short_name": "求人条件くらべ",
+  "description": "週休二日制、賞与、通勤手当の割合を産業別に比較する",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f2eee5",
+  "theme_color": "#253447",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}

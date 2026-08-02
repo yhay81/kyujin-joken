@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#f2eee5"/>
+  <path d="M0 536h1200v94H0z" fill="#ded8cc"/>
+  <g transform="translate(74 72)">
+    <rect width="572" height="470" rx="18" fill="#30435a" stroke="#253447" stroke-width="4"/>
+    <path d="M247-17h78a16 16 0 0 1 16 16v35H231V-1a16 16 0 0 1 16-16Z" fill="#e8e7e1" stroke="#9ea6ad" stroke-width="4"/>
+    <g transform="translate(49 70)">
+      <rect width="474" height="82" rx="9" fill="#fffefa"/>
+      <circle cx="48" cy="41" r="24" fill="#fff4eb" stroke="#e77238" stroke-width="4"/>
+      <text x="48" y="50" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="900" fill="#e77238">休</text>
+      <text x="91" y="36" font-family="sans-serif" font-size="21" font-weight="800" fill="#213044">週休二日制</text>
+      <text x="91" y="59" font-family="sans-serif" font-size="13" fill="#68727c">完全実施とその他</text>
+      <rect x="420" y="25" width="31" height="31" rx="6" fill="#6eae91"/>
+      <path d="m428 40 7 7 11-15" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+    </g>
+    <g transform="translate(49 171)">
+      <rect width="474" height="82" rx="9" fill="#fffefa"/>
+      <circle cx="48" cy="41" r="24" fill="#fff9e9" stroke="#e9bd55" stroke-width="4"/>
+      <text x="48" y="50" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="900" fill="#b68112">賞</text>
+      <text x="91" y="36" font-family="sans-serif" font-size="21" font-weight="800" fill="#213044">賞与</text>
+      <text x="91" y="59" font-family="sans-serif" font-size="13" fill="#68727c">あり・なし</text>
+      <rect x="420" y="25" width="31" height="31" rx="6" fill="#6eae91"/>
+      <path d="m428 40 7 7 11-15" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+    </g>
+    <g transform="translate(49 272)">
+      <rect width="474" height="82" rx="9" fill="#fffefa"/>
+      <circle cx="48" cy="41" r="24" fill="#eef6fa" stroke="#5c8cac" stroke-width="4"/>
+      <text x="48" y="50" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="900" fill="#477998">通</text>
+      <text x="91" y="36" font-family="sans-serif" font-size="21" font-weight="800" fill="#213044">通勤手当</text>
+      <text x="91" y="59" font-family="sans-serif" font-size="13" fill="#68727c">支給方法となし</text>
+      <rect x="420" y="25" width="31" height="31" rx="6" fill="#6eae91"/>
+      <path d="m428 40 7 7 11-15" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+    </g>
+    <text x="49" y="411" font-family="monospace" font-size="15" font-weight="700" fill="#dce4eb">2020—2025  /  19 INDUSTRIES</text>
+  </g>
+  <g transform="translate(715 132)">
+    <text font-family="sans-serif" font-size="23" font-weight="800" letter-spacing="3" fill="#e77238">厚生労働省 公式統計</text>
+    <text y="73" font-family="sans-serif" font-size="54" font-weight="900" letter-spacing="-4" fill="#213044">求人条件くらべ</text>
+    <text y="130" font-family="sans-serif" font-size="25" font-weight="700" fill="#526170">産業を選ぶ。条件の割合を並べる。</text>
+    <g transform="translate(0 184)">
+      <rect width="403" height="98" rx="10" fill="#fffefa" stroke="#c4c9cc" stroke-width="2"/>
+      <text x="24" y="30" font-family="monospace" font-size="13" font-weight="700" fill="#73808c">2025年度・産業計</text>
+      <text x="24" y="72" font-family="monospace" font-size="32" font-weight="900" fill="#213044">58.5%</text>
+      <rect x="168" y="52" width="204" height="13" rx="6" fill="#d4d8da"/>
+      <rect x="168" y="52" width="119" height="13" rx="6" fill="#e77238"/>
+    </g>
+  </g>
+</svg>
